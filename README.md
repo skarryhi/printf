@@ -12,4 +12,4 @@ make
 
 👩🏻‍💼 **[Skarryhi](https://github.com/skarryhi/)**
 
-🏠 [Homepage](https://github.com/skarryhi/Get-Next-Line)
+🏠 [Homepage](https://github.com/skarryhi/printf)
